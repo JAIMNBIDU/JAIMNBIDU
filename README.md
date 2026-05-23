@@ -2,7 +2,7 @@
 <h1 align="center">Hi! I'm Aryan (JAIMNBIDU is an alias)</h1>
 <h3 align="center">Cybersecurity student learning through building, breaking, and fixing systems. Most projects here are experiments, labs, and attempts to understand how real-world attacks and defenses actually work.</h3>
 
-- A personal threat intelligence aggregator and risk scoring engine. Pulls raw indicator data from VirusTotal, AbuseIPDB, and Shodan, correlates it, applies time-decayed risk scoring, and clusters similar threats by behavior... turning noisy threat feeds into actionable signal :) [ThreatLens](https://github.com/JAIMNBIDU/ThreatLens.git)
+- One of my major projects includes, a personal threat intelligence aggregator and risk scoring engine. Pulls raw indicator data from VirusTotal, AbuseIPDB, and Shodan, correlates it, applies time-decayed risk scoring, and clusters similar threats by behavior... turning noisy threat feeds into actionable signal :) [ThreatLens](https://github.com/JAIMNBIDU/ThreatLens.git)
 
 - Working on other projects as well including **SIEM detection labs and Active Directory Workflows.** Along with these I am also trying to break them  and maybe learn a thing or two.
 
