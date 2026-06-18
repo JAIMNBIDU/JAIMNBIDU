@@ -2,11 +2,16 @@
 <h1 align="center">Namaste! I'm Aryan (JAIMNBIDU is an alias)</h1>
 <h3 align="center">Cybersecurity student learning through building, breaking, and fixing systems. Most projects here are experiments, labs, and attempts to understand how real-world attacks and defenses actually work.</h3>
 
-- One of my major projects includes, a personal threat intelligence aggregator and risk scoring engine. Pulls raw indicator data from VirusTotal, AbuseIPDB, and Shodan, correlates it, applies time-decayed risk scoring, and clusters similar threats by behavior... turning noisy threat feeds into actionable signal :) [ThreatLens](https://github.com/JAIMNBIDU/ThreatLens.git)
+i build security tooling and then attack it.
+it's the only honest way to know if either works.
 
-- Working on other projects as well including **SIEM detection labs and Active Directory Workflows.** Along with these I am also trying to break them  and maybe learn a thing or two.
+ThreatLens — threat feeds decay. scoring should know that.
+ClassroomEnv — every Kali install is broken differently. this one isn't.
+AD lab — four machines, Wazuh, both sides of every attack.
 
-- I’m looking to collaborate on **Cybersecurity Projects and some development as well**, if it includes **AD and Linux then count me in.**
+writing up what I break: Kerberoasting → DA, SMB relay, SPN abuse detection.
+
+linux, AD, detection logic. find me there.
 
 - How to reach me **heythereitsaryan@gmail.com/gorkijaimnbidu18@gmail.com**
 
