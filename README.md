@@ -15,6 +15,8 @@ linux, AD, detection logic. find me there.
 
 - How to reach me **heythereitsaryan@gmail.com/gorkijaimnbidu18@gmail.com**
 
+- Check out my profile at- **https://jaimnbidu.github.io**
+
 - Fun fact, **I study non technical subjects as well...**
 
 <h3 align="left">Connect with me:</h3>
