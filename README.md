@@ -9,9 +9,7 @@ ThreatLens- threat feeds decay. scoring should know that.
 ClassroomEnv- every Kali install is broken differently. this one isn't.
 AD lab — four machines, Wazuh, both sides of every attack.
 
-Writing up what I break: Kerberoasting → DA, SMB relay, SPN abuse detection.
-
-linux, AD, detection logic. find me there.
+Writing up what I break: kerberoasting, DA, SMB relay, SPN abuse detection, linux, AD, detection logic. find me there.
 
 - How to reach me **heythereitsaryan@gmail.com/gorkijaimnbidu18@gmail.com**
 
