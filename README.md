@@ -1,5 +1,5 @@
 
-<h1 align="center">Namaste! I'm Aryan (JAIMNBIDU is an alias)</h1>
+<h1 align="center">Namaste! I'm Aryan  (Alias: JAIMNBIDU)</h1>
 <h3 align="center">Cybersecurity student learning through building, breaking, and fixing systems. Most projects here are experiments, labs, and attempts to understand how real-world attacks and defenses actually work.</h3>
 
 i build security tooling and then attack it.
